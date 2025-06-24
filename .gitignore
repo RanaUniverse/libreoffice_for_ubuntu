@@ -1,0 +1,4 @@
+
+# Exclude specific ZIP file from tracking
+libreoffice_install_ubuntu_v*.zip
+LibreOffice_*.tar.gz

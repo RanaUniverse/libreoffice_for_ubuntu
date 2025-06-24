@@ -1,0 +1,11 @@
+This is the libreoffice app i will use, This is version 24.8.2, which i downloded from the official website, 
+
+https://www.libreoffice.org/donate/dl/deb-x86_64/24.8.2/en-US/LibreOffice_24.8.2_Linux_x86-64_deb.tar.gz
+
+
+13 May 2025
+Version: 25.2.3
+https://download.documentfoundation.org/libreoffice/stable/25.2.3/deb/x86_64/LibreOffice_25.2.3_Linux_x86-64_deb.tar.gz
+
+where it just give the same like i just here make a script which just install the packages in background.
+
