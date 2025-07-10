@@ -1,0 +1,8 @@
+# This is the official file from download the official website.
+LibreOffice*.tar.gz
+
+# Below is the folder come after extract the archive file
+LibreOffice*
+
+# Below is the release file i make
+libreoffice_*.zip 
