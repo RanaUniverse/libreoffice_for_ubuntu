@@ -1,6 +1,6 @@
 
-VERSION="v1.0.0"
-APP_VERSION="25.2.4"
+VERSION="v1.1.0"
+APP_VERSION="25.2.5"
 
 repo_name=$(basename "$(pwd)")
 
